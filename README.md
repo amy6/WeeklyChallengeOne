@@ -16,3 +16,12 @@ After removing the bugs the application will look like this :
 
 
 <img src = "https://i.imgur.com/DfIu4Aq.png" width=350>
+
+## Updated UI after bug fix and materializing
+
+![portrait](https://user-images.githubusercontent.com/5392993/38820944-d6dbbbfe-41bc-11e8-867b-626737c2d013.jpg)
+
+![landscape](https://user-images.githubusercontent.com/5392993/38820943-d6a4df44-41bc-11e8-9072-043a643ed42b.jpg)
+
+
+
